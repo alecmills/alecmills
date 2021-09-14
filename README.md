@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently a student at the University of Kansas
 - 🌱 I’m currently studying Software Engineering
-- 💬 Ask me about: Hockey, Basketball, Snowboarding, or anyhting adventurous!
+- 💬 Ask me about: Chess, Sports, Snowboarding, or anyhting adventurous!
 - 📫 How to reach me: alecmills34@gmail.com
 -->
